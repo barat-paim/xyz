@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Your Blog Title
+description: A minimalistic blog powered by Jekyll and Github Pages.
+baseurl: "/xyz"
+url: "https://barat-paim.github.io"
